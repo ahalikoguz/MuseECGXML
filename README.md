@@ -8,6 +8,12 @@
 - **Extract 12 Leads**: Extracts all standard 12 leads from the ECG data.
 - **Output to NumPy**: Converts ECG leads into NumPy arrays for easy use in scientific computing.
 
+## Acknowledgements
+
+Special thanks to everyone who contributed to testing and refining this utility, as well as to other repositories that inspired this project:
+
+    [will2hew/ECGXMLReader](https://github.com/will2hew/ECGXMLReader)
+
 ## Installation and Setup
 
 Ensure `MuseECGXMLProcessor.py` is in your project directory or a directory in your PYTHONPATH. Here's how to use it:
