@@ -12,7 +12,7 @@
 
 Special thanks to everyone who contributed to testing and refining this utility, as well as to other repositories that inspired this project:
 
-    [will2hew/ECGXMLReader](https://github.com/will2hew/ECGXMLReader)
+    https://github.com/will2hew/ECGXMLReader
 
 ## Installation and Setup
 
